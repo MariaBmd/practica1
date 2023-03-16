@@ -1,0 +1,21 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "Paquete1",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": "Mi primer paquete"
+    }
+  ],
+  "name": "practica1",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "56.0",
+  "packageAliases": {
+    "Paquete1": "0Ho7Q000000wkHYSAY",
+    "Paquete1@0.1.0-1": "04t7Q000000txOmQAI",
+    "Paquete1@0.1.0-2": "04t7Q000000txOrQAI"
+  }
+}
